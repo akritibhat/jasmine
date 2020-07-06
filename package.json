@@ -1,5 +1,5 @@
 {
   "scripts": {
-    "test": "npx jasmine"
+    "test": "jasmine"
   }
 }
